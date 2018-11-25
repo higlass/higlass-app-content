@@ -1,11 +1,11 @@
 [
   {
-    "url": "https://github.com/hms-dbmi/higlass-multivec#readme",
+    "url": "https://github.com/higlass/higlass-multivec#readme",
     "title": "Multivec Track",
     "description": "A track for displaying multiple tracks as stacked bar in one track.",
     "image": "https://user-images.githubusercontent.com/2143629/42416058-b698b002-8232-11e8-9952-b43108cfdbd2.png",
     "liveDemo": "http://higlass.io/app/?config=L4nKi6eGSzWOpi-rU2DAMA",
-    "sourceCode": "https://github.com/hms-dbmi/higlass-multivec",
+    "sourceCode": "https://github.com/higlass/higlass-multivec",
     "npmPackageName": "higlass-multivec"
   },
   {

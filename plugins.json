@@ -17,6 +17,15 @@
     "npmPackageName": "higlass-scalable-insets"
   },
   {
+    "url": "https://github.com/higlass/range-track#readme",
+    "title": "Range Track",
+    "description": "A track for displaying ranges like min-max or whisker plots.",
+    "image": "https://user-images.githubusercontent.com/932103/51345972-a5f1a780-1a59-11e9-8b8c-d1e5ca8a848e.png",
+    "liveDemo": "https://higlass.github.io/range-track",
+    "sourceCode": "https://github.com/higlass/range-track",
+    "npmPackageName": "higlass-range"
+  },
+  {
     "url": "https://github.com/flekschas/higlass-geojson#readme",
     "title": "GeoJSON Track",
     "description": "A track for displaying GeoJSON annotation in HiGlass.",

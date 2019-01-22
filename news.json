@@ -1,7 +1,12 @@
 [
   {
+    "date": "2019-01-21",
+    "text": "🎊 Our biggest update yet: version 1.3! Stay tuned for a blog post on what's new. Meanwhile check the [changelog](https://github.com/higlass/higlass/blob/develop/CHANGELOG.md#v130).",
+    "moreUrl": "https://github.com/hms-dbmi/higlass/blob/develop/CHANGELOG.md#v130"
+  },
+  {
     "date": "2018-09-14",
-    "text": "Version 1.2 is out. Take a look at the [changelog](https://github.com/hms-dbmi/higlass/blob/develop/CHANGELOG.md#v120) for a list of changes.",
+    "text": "Version 1.2 is out. Take a look at the [changelog](https://github.com/higlass/higlass/blob/develop/CHANGELOG.md#v120) for a list of changes.",
     "moreUrl": "https://github.com/hms-dbmi/higlass/blob/develop/CHANGELOG.md#v120"
   },
   {
@@ -14,7 +19,7 @@
   {
     "date": "2018-06-07",
     "text": "Version 1.0 is out! 🥂",
-    "moreUrl": "https://github.com/hms-dbmi/higlass/blob/develop/CHANGELOG.md#v100-alpha",
+    "moreUrl": "https://github.com/higlass/higlass/blob/develop/CHANGELOG.md#v100-alpha",
     "twitterUrl": "https://twitter.com/flekschas/status/1008733578769960960",
     "emphasize": 1
   }

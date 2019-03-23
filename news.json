@@ -1,5 +1,11 @@
 [
   {
+    "date": "2019-03-11",
+    "text": "Version 1.5 is here with [new features](https://flekschas.github.io/higlass-v1.5-example/) for developers.",
+    "moreUrl": "https://github.com/higlass/higlass/blob/develop/CHANGELOG.md#v150",
+    "twitterUrl": "https://twitter.com/higlass_io/status/1105145608548089861"
+  },
+  {
     "date": "2019-02-04",
     "text": "Version 1.4 is online and brings [new features](http://higlass.io/app/?config=cjmbb_MSQ56_Pi9zX9_n3Q) and [bug fixes](https://github.com/higlass/higlass/blob/develop/CHANGELOG.md#v140).",
     "moreUrl": "https://github.com/higlass/higlass/blob/develop/CHANGELOG.md#v140",

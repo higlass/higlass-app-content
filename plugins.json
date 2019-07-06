@@ -46,12 +46,12 @@
     "npmPackageName": "higlass-image"
   },
   {
-    "url": "https://github.com/higlass/higlass-labelled-points-tracks#readme",
+    "url": "https://github.com/higlass/higlass-labelled-points-track#readme",
     "title": "Labeled Points Track",
     "description": "A track for explore datasets containing millions of points with labels",
     "image": "https://user-images.githubusercontent.com/932103/46386730-1f26e380-c691-11e8-9122-efe48d95d43b.png",
-    "sourceCode": "https://github.com/higlass/higlass-labelled-points-tracks",
-    "npmPackageName": "higlass-labelled-points-tracks"
+    "sourceCode": "https://github.com/higlass/higlass-labelled-points-track",
+    "npmPackageName": "higlass-labelled-points-track"
   },
   {
     "url": "https://github.com/flekschas/higlass-labeled-annotation#readme",

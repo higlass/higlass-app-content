@@ -1,5 +1,23 @@
 [
   {
+    "date": "2019-07-22",
+    "text": "Version 1.6 is out! 🥳 Please welcome [diagonal split matrices](http://higlass.io/l/?d=cX4bUPtPSIqPtsQ7r6pBGg) and the [in-app viewconf editor](https://twitter.com/flekschas/status/1153306437117972485).",
+    "moreUrl": "https://github.com/higlass/higlass/blob/develop/CHANGELOG.md#v160",
+    "twitterUrl": "https://twitter.com/higlass_io/status/1153294019620982784"
+  },
+  {
+    "date": "2019-07-16",
+    "text": "🐍 We’re happy to announce the first beta version of the [higlass-python](https://github.com/higlass/higlass-python) for using HiGlass in Jupyter notebooks.",
+    "moreUrl": "https://docs.higlass.io/jupyter.html",
+    "twitterUrl": "https://twitter.com/higlass_io/status/1151126588949508097"
+  },
+  {
+    "date": "2019-07-10",
+    "text": "Here is [our presentation](https://youtu.be/v62k4Ok1S8g) from the fantastic SciPy conference.",
+    "moreUrl": "https://youtu.be/v62k4Ok1S8g",
+    "twitterUrl": "https://twitter.com/higlass_io/status/1149710827513143296"
+  },
+  {
     "date": "2019-03-11",
     "text": "Version 1.5 is here with [new features](https://flekschas.github.io/higlass-v1.5-example/) for developers.",
     "moreUrl": "https://github.com/higlass/higlass/blob/develop/CHANGELOG.md#v150",

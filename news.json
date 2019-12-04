@@ -1,5 +1,11 @@
 [
   {
+    "date": "2019-11-12",
+    "text": "📢 We just released v1.7. It comes support for [view scrolling](https://flekschas.github.io/higlass-fancy/scrollable.html) as well as several minor improvements and bug fixes.",
+    "moreUrl": "https://github.com/higlass/higlass/blob/develop/CHANGELOG.md#v170",
+    "twitterUrl": "https://twitter.com/higlass_io/status/1194343051507859457?s=20"
+  },
+  {
     "date": "2019-07-22",
     "text": "Version 1.6 is out! 🥳 Please welcome [diagonal split matrices](http://higlass.io/l/?d=cX4bUPtPSIqPtsQ7r6pBGg) and the [in-app viewconf editor](https://twitter.com/flekschas/status/1153306437117972485).",
     "moreUrl": "https://github.com/higlass/higlass/blob/develop/CHANGELOG.md#v160",

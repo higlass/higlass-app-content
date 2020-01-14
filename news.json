@@ -1,6 +1,12 @@
 [
   {
     "date": "2019-11-12",
+    "text": "Happy New Year/Version 🎉 v1.8 is out with bug fixes, doc updates and a new [_segment_ style for bed tracks](http://higlass.io/l/?d=MBiWiOT1SKC4maLcodthew).",
+    "moreUrl": "https://github.com/higlass/higlass/blob/develop/CHANGELOG.md#v180",
+    "twitterUrl": "https://twitter.com/higlass_io/status/1217127736688377857?s=20"
+  },
+  {
+    "date": "2019-11-12",
     "text": "📢 We just released v1.7. It comes support for [view scrolling](https://flekschas.github.io/higlass-fancy/scrollable.html) as well as several minor improvements and bug fixes.",
     "moreUrl": "https://github.com/higlass/higlass/blob/develop/CHANGELOG.md#v170",
     "twitterUrl": "https://twitter.com/higlass_io/status/1194343051507859457?s=20"

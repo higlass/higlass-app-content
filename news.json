@@ -1,7 +1,7 @@
 [
   {
     "date": "2020-01-29",
-    "text": "Another big release: higlass-python v0.4! 🐍 Create [overland and dataset ratio tracks](https://docs-python.higlass.io/getting_started.html#dataset-arithmetic) directly in a Jupyter notebook.",
+    "text": "Another big release: higlass-python v0.4! 🐍 Create [overlay and dataset ratio tracks](https://docs-python.higlass.io/getting_started.html#dataset-arithmetic) directly in a Jupyter notebook.",
     "moreUrl": "https://github.com/higlass/higlass-python/blob/master/CHANGELOG.md#v040",
     "twitterUrl": "https://twitter.com/higlass_io/status/1222570098105319424?s=20"
   },

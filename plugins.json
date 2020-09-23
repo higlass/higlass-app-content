@@ -78,5 +78,45 @@
     "image": "https://user-images.githubusercontent.com/932103/46308298-40031200-c587-11e8-9dad-677ea3d51695.png",
     "sourceCode": "https://github.com/pkerpedjiev/higlass-time-interval-track",
     "npmPackageName": "higlass-unix-time-track"
+  },
+  {
+    "url": "https://github.com/higlass/higlass-transcripts#readme",
+    "title": "Transcripts Track",
+    "description": "Display gene transcripts in HiGlass.",
+    "image": "https://user-images.githubusercontent.com/53857412/94028034-7eec8c80-fd89-11ea-9415-665f31d854ae.png",
+    "sourceCode": "https://github.com/higlass/higlass-transcripts",
+    "npmPackageName": "higlass-transcripts"
+  },
+  {
+    "url": "https://github.com/higlass/higlass-sequence#readme",
+    "title": "Sequence Track",
+    "description": "Display nucleotide sequences in HiGlass.",
+    "image": "https://user-images.githubusercontent.com/53857412/94028030-7eec8c80-fd89-11ea-9836-8ecd72e5bf2c.png",
+    "sourceCode": "https://github.com/higlass/higlass-sequence",
+    "npmPackageName": "higlass-sequence"
+  },
+  {
+    "url": "https://github.com/higlass/higlass-orthologs#readme",
+    "title": "Orthologs Track",
+    "description": "Display orthologous amino acids in HiGlass.",
+    "image": "https://user-images.githubusercontent.com/53857412/94028028-7eec8c80-fd89-11ea-9253-43a373677121.png",
+    "sourceCode": "https://github.com/higlass/higlass-orthologs",
+    "npmPackageName": "higlass-orthologs"
+  },
+  {
+    "url": "https://github.com/higlass/higlass-clinvar#readme",
+    "title": "ClinVar Track",
+    "description": "Display ClinVar variants in HiGlass.",
+    "image": "https://user-images.githubusercontent.com/53857412/94028020-7b590580-fd89-11ea-9bb4-50440342cb55.png",
+    "sourceCode": "https://github.com/higlass/higlass-clinvar",
+    "npmPackageName": "higlass-clinvar"
+  },
+  {
+    "url": "https://github.com/higlass/higlass-text#readme",
+    "title": "Text Track",
+    "description": "Display text in HiGlass.",
+    "image": "https://user-images.githubusercontent.com/53857412/94028031-7eec8c80-fd89-11ea-964f-969063731e28.png",
+    "sourceCode": "https://github.com/higlass/higlass-text",
+    "npmPackageName": "higlass-text"
   }
 ]

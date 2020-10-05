@@ -1,13 +1,13 @@
 [
   {
-    "url": "http://higlass.io/app/?config=L4nKi6eGSzWOpi-rU2DAMA",
-    "title": "Epilogos",
-    "description": "The epilogos track type (https://epilogos.altiusinstitute.org/) shows an overview of the epigenetic states found along the genome.",
+    "url": "http://higlass.io/app/?config=Yzld015XRFaCfCIYbB2MZQ",
+    "title": "Variant interpretation",
+    "description": "Tracks that show the (reference) genomic sequence, transcripts, reported ClinVar variants and orthologous amino acids. These can help with the interpretation of genetic variants.",
     "category": "Useful view configurations",
-    "image": "https://user-images.githubusercontent.com/2143629/42416058-b698b002-8232-11e8-9952-b43108cfdbd2.png",
+    "image": "https://user-images.githubusercontent.com/53857412/94855615-cb287400-03fc-11eb-93da-218220ad7625.png",
     "columns": 2,
     "locations": [
-      "chr3:180,376,342-180,443,561 & chr3:180,405,434-180,415,676 [offset 0,0:0,0]"
+      "chr9:77,321,038-77,321,804 & chr4:73,913,844-73,913,942 [offset 0,0:0,0]"
     ]
   },
   {
@@ -19,14 +19,14 @@
     "columns": 1
   },
   {
-    "url": "http://higlass.io/app/?config=MSHhOBbOSW6iIovB5yk6BA",
-    "title": "HiC Data vs. Maps",
-    "description": "Maps of earth and HiC data have features across a similar range of scales. This view configuration shows them side by side with linked zoom scales.",
+    "url": "http://higlass.io/app/?config=L4nKi6eGSzWOpi-rU2DAMA",
+    "title": "Epilogos",
+    "description": "The epilogos track type (https://epilogos.altiusinstitute.org/) shows an overview of the epigenetic states found along the genome.",
     "category": "Useful view configurations",
-    "image": "https://user-images.githubusercontent.com/2143629/28455807-962ed2b6-6e00-11e7-9c00-3c967c385027.png",
+    "image": "https://user-images.githubusercontent.com/2143629/42416058-b698b002-8232-11e8-9952-b43108cfdbd2.png",
     "columns": 2,
     "locations": [
-      "chr17:46,544,763-46,670,212 & chr17:46,580,119-46,662,543 [offset 0,0:0,0]"
+      "chr3:180,376,342-180,443,561 & chr3:180,405,434-180,415,676 [offset 0,0:0,0]"
     ]
   },
   {
@@ -37,6 +37,17 @@
     "image": "https://user-images.githubusercontent.com/2143629/28230569-86e5d160-68b5-11e7-8ee2-045534e43431.png",
     "columns": 1,
     "locations": []
+  },
+  {
+    "url": "http://higlass.io/app/?config=MSHhOBbOSW6iIovB5yk6BA",
+    "title": "HiC Data vs. Maps",
+    "description": "Maps of earth and HiC data have features across a similar range of scales. This view configuration shows them side by side with linked zoom scales.",
+    "category": "Useful view configurations",
+    "image": "https://user-images.githubusercontent.com/2143629/28455807-962ed2b6-6e00-11e7-9c00-3c967c385027.png",
+    "columns": 2,
+    "locations": [
+      "chr17:46,544,763-46,670,212 & chr17:46,580,119-46,662,543 [offset 0,0:0,0]"
+    ]
   },
   {
     "url": "http://higlass.io/app/?config=IPCHmdOQR4CDY2sqj5VJHQ",
@@ -260,17 +271,6 @@
       "chr8:113,606,162-chr9:28,808,918 & chr6:145,431,217-chr7:31,421,567 [offset 0,0:0,0]",
       "chr8:114,455,117-chr9:29,657,873 & chr7:132,073,686-chr8:30,040,440 [offset 0,0:0,0]",
       "chr7:44,697,406-chr9:37,684,460 & chr6:134,964,128-chr8:81,570,445 [offset 0,0:0,0]"
-    ]
-  },
-  {
-    "url": "http://higlass.io/app/?config=Yzld015XRFaCfCIYbB2MZQ",
-    "title": "Variant interpretation",
-    "description": "Tracks that show the (reference) genomic sequence, transcripts, reported ClinVar variants and orthologous amino acids. These can help with the interpretation of genetic variants.",
-    "category": "Useful view configurations",
-    "image": "https://user-images.githubusercontent.com/53857412/94855615-cb287400-03fc-11eb-93da-218220ad7625.png",
-    "columns": 2,
-    "locations": [
-      "chr9:77,321,038-77,321,804 & chr4:73,913,844-73,913,942 [offset 0,0:0,0]"
     ]
   }
 ]

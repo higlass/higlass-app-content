@@ -11,14 +11,6 @@
     ]
   },
   {
-    "url": "https://flekschas.github.io/higlass-fancy/",
-    "title": "Dark Theme",
-    "beta": true,
-    "description": "HiGlass' dark theme in action. Useful for making colors pop out.",
-    "image": "https://user-images.githubusercontent.com/932103/46414494-37c6e600-c6f1-11e8-8df3-4c172e99f287.png",
-    "columns": 1
-  },
-  {
     "url": "http://higlass.io/app/?config=L4nKi6eGSzWOpi-rU2DAMA",
     "title": "Epilogos",
     "description": "The epilogos track type (https://epilogos.altiusinstitute.org/) shows an overview of the epigenetic states found along the genome.",
@@ -28,6 +20,14 @@
     "locations": [
       "chr3:180,376,342-180,443,561 & chr3:180,405,434-180,415,676 [offset 0,0:0,0]"
     ]
+  },
+  {
+    "url": "https://flekschas.github.io/higlass-fancy/",
+    "title": "Dark Theme",
+    "beta": true,
+    "description": "HiGlass' dark theme in action. Useful for making colors pop out.",
+    "image": "https://user-images.githubusercontent.com/932103/46414494-37c6e600-c6f1-11e8-8df3-4c172e99f287.png",
+    "columns": 1
   },
   {
     "url": "http://higlass.io/app/?config=OPPFtzbuR76vtUIshTEOGA",

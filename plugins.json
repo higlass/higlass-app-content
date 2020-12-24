@@ -118,5 +118,13 @@
     "image": "https://user-images.githubusercontent.com/53857412/94028031-7eec8c80-fd89-11ea-964f-969063731e28.png",
     "sourceCode": "https://github.com/higlass/higlass-text",
     "npmPackageName": "higlass-text"
+  },
+  {
+    "url": "https://github.com/higlass/higlass-arcs#readme",
+    "title": "Arcs Track",
+    "description": "Display arcs between disconnected regions",
+    "image": "https://user-images.githubusercontent.com/932103/103100938-11980400-45e3-11eb-9861-68ff3ec36835.png",
+    "sourceCode": "https://github.com/higlass/higlass-arcs",
+    "npmPackageName": "higlass-arcs"
   }
 ]

@@ -1,6 +1,17 @@
 [
   {
-    "url": "http://higlass.io/app/?config=Yzld015XRFaCfCIYbB2MZQ",
+    "url": "https://higlass.io/app/?config=TA_BP0R5R8GfKHkKX7-TzQ",
+    "title": "Bam file viewer",
+    "description": "The HiGlass Pileup track can be used to efficiently visualize BAM files.",
+    "category": "Useful view configurations",
+    "image": "https://user-images.githubusercontent.com/53857412/103951077-0a591600-510c-11eb-8143-0c02a2f5c99c.png",
+    "columns": 2,
+    "locations": [
+      "chr1:137,800-138,400 & chr1:137,800-138,400 [offset 0,0:0,0]"
+    ]
+  },
+  {
+    "url": "https://higlass.io/app/?config=Yzld015XRFaCfCIYbB2MZQ",
     "title": "Variant interpretation",
     "description": "Tracks that show the (reference) genomic sequence, transcripts, reported ClinVar variants and orthologous amino acids. These can help with the interpretation of genetic variants.",
     "category": "Useful view configurations",

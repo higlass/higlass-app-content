@@ -1,5 +1,16 @@
 [
   {
+    "date": "2021-03-17",
+    "text": "This news sections has gotten a bit quiet but we still had **three 💪 releases** over the last year [v1.9](https://github.com/higlass/higlass/blob/develop/CHANGELOG.md#v190), [v1.10](https://github.com/higlass/higlass/blob/develop/CHANGELOG.md#v1100), and [v1.11](https://github.com/higlass/higlass/blob/develop/CHANGELOG.md#v1110) with lots of smaller enhancements and bug fixes.",
+    "moreUrl": "https://github.com/higlass/higlass/blob/develop/CHANGELOG.md"
+  },
+  {
+    "date": "2021-03-02",
+    "text": "More than 200 ⭐️ on [GitHub](https://github.com/higlass/higlass)! You guys are the best. Thank you so much! 🥳",
+    "moreUrl": "https://github.com/higlass/higlass/",
+    "twitterUrl": "https://twitter.com/higlass_io/status/1366824295691788288"
+  },
+  {
     "date": "2020-01-29",
     "text": "Another big release: higlass-python v0.4! 🐍 Create [overlay and dataset ratio tracks](https://docs-python.higlass.io/getting_started.html#dataset-arithmetic) directly in a Jupyter notebook.",
     "moreUrl": "https://github.com/higlass/higlass-python/blob/master/CHANGELOG.md#v040",

@@ -96,6 +96,14 @@
     "npmPackageName": "higlass-sequence"
   },
   {
+    "url": "https://github.com/kundajelab/higlass-dynseq#readme",
+    "title": "DynSeq Track",
+    "description": "Display a dynamic sequence in HiGlass.",
+    "image": "https://user-images.githubusercontent.com/29579245/127757191-244d2d33-e13f-4e30-b80e-f05f70134ba4.png",
+    "sourceCode": "https://github.com/kundajelab/higlass-dynseq",
+    "npmPackageName": "higlass-dynseq"
+  },
+  {
     "url": "https://github.com/higlass/higlass-orthologs#readme",
     "title": "Orthologs Track",
     "description": "Display orthologous amino acids in HiGlass.",
